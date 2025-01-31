@@ -1,4 +1,4 @@
 # pujitha-demo
 This is my first repository.
 <br>
-author - pujitha chandran
+author - pujitha chandran(sambeta)
